@@ -5,5 +5,8 @@
 3. При нажатии кнопки в appBar-е, вид ленты с “плитки” переключается на список.
 
 ## Скриншоты
-![alt text](https://github.com/akhmetbeks/Newsline/tree/main/assets/screenshot_1.png)
-![alt text](https://github.com/akhmetbeks/Newsline/tree/main/assets/screenshot_2.png)
+
+<p align="center">
+  <img src="https://github.com/akhmetbeks/Newsline/tree/main/assets/screenshot_1.png" width="350" title="hover text">
+  <img src="https://github.com/akhmetbeks/Newsline/tree/main/assets/screenshot_2.png" width="350" alt="accessibility text">
+</p>
