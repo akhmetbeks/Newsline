@@ -6,8 +6,5 @@
 
 ## Скриншоты
 
-<picture>
-  <img alt="Screenshot 1" src="https://github.com/akhmetbeks/Newsline/tree/main/assets/screenshot_1.png">
-  <img alt="Screenshot 2" src="https://github.com/akhmetbeks/Newsline/tree/main/assets/screenshot_2.png">
-</picture>
-
+<img width="354" alt="screenshot_1" src="https://user-images.githubusercontent.com/53520835/216527225-83a7b9b5-dcca-478c-813e-09222eea7f5f.png">
+<img width="351" alt="screenshot_2" src="https://user-images.githubusercontent.com/53520835/216527241-11523d23-9817-40d1-9ab6-2ec9ce789c45.png">
