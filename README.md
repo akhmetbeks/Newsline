@@ -6,7 +6,8 @@
 
 ## Скриншоты
 
-<p align="center">
-  <img src="https://github.com/akhmetbeks/Newsline/tree/main/assets/screenshot_1.png" width="350" title="hover text">
-  <img src="https://github.com/akhmetbeks/Newsline/tree/main/assets/screenshot_2.png" width="350" alt="accessibility text">
-</p>
+<picture>
+  <img alt="Screenshot 1" src="https://github.com/akhmetbeks/Newsline/tree/main/assets/screenshot_1.png">
+  <img alt="Screenshot 2" src="https://github.com/akhmetbeks/Newsline/tree/main/assets/screenshot_2.png">
+</picture>
+
