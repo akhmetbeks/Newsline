@@ -35,6 +35,12 @@ class GridViewWidget extends StatelessWidget {
                   borderRadius: const BorderRadius.all(Radius.circular(20)),
                   child: Image.network(
                     data[index]['image_url'],
+                    errorBuilder: (context, error, stackTrace) {
+                      return Image.asset(
+                        'assets/news.png',
+                        fit: BoxFit.fitWidth,
+                      );
+                    },
                     fit: BoxFit.cover,
                   ),
                 ),

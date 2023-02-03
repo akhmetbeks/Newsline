@@ -11,6 +11,7 @@ class NewsCubit extends Cubit<NewsState> {
   Future<void> getNews() async {
     emit(NewsLoading());
     var data = await newsDataSource.getNews();
+
     data = data
         .where((result) =>
             result['image_url'] != null && result['description'] != "")

@@ -27,6 +27,12 @@ class ListViewWidget extends StatelessWidget {
               borderRadius: const BorderRadius.all(Radius.circular(15)),
               child: Image.network(
                 data[index]['image_url'],
+                errorBuilder: (context, error, stackTrace) {
+                  return Image.asset(
+                    'assets/news.png',
+                    fit: BoxFit.fitWidth,
+                  );
+                },
                 fit: BoxFit.fitWidth,
               ),
             ),
